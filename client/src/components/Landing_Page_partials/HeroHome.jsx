@@ -12,11 +12,11 @@ function HeroHome() {
                     {/* Section header */}
                     <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
                         <h1 className="h1 m-2">
-                            {"<In"}
+                            {"<"}
                             <span className="text-[color:var(--darker-secondary-color)]">
-                                VIT
+                                EventReg
                             </span>
-                            {"e />"}
+                            {"/>"}
                             <p className="mt-3 text-5xl text-gray-500">
                                 {"Event Management"}
                             </p>
